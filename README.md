@@ -43,8 +43,8 @@ Creación de una herramienta interactiva para el seguimiento de cohortes y anál
 
 ## Mis Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=walterbaya&show_icons=true&theme=visual_studio_code" />
-  <img  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=walterbaya&layout=compact&theme=visual_studio_code&hide=html,css" />
+  <img height="300px" src="https://github-readme-stats-fast.vercel.app/api?username=walterbaya&show_icons=true&theme=visual_studio_code" />
+  <img height="300px" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=walterbaya&layout=compact&theme=visual_studio_code&hide=html,css" />
 </p>
 
 ## Últimos Artículos / Certificaciones
