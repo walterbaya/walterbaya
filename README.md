@@ -43,7 +43,7 @@ Creación de una herramienta interactiva para el seguimiento de cohortes y anál
 
 ## Mis Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=walterbaya&show_icons=true&theme=visual_studio_code" alt="Stats de Walter Ariel Baya" />
+  <img src="https://github-readme-stats.vercel.app/api?username=walterbaya&show_icons=true&theme=visual_studio_code" alt="Estadísticas de Walter Ariel Baya" />
 </p>
 
 ---
