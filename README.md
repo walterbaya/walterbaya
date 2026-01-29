@@ -1,90 +1,121 @@
-# ¡Hola! Soy Walter Ariel Baya | Java Backend Developer
+# Walter Ariel Baya
 
-## Sobre mí
-Soy un desarrollador backend enfocado en construir aplicaciones robustas, escalables y mantenibles. Me especializo en el diseño de APIs REST, microservicios y optimización de bases de datos.
+## Java Backend Developer
 
-- Actualmente trabajando en: Desarrollo de backend para e-commerce con Spring Boot y bases de datos H2/MySQL.
-- Dominio técnico: Java 17+, Spring Boot, JPA/Hibernate, SQL, Microservicios, Spring Security, Testing con JUnit y Mockito.
-- Aprendiendo sobre: Arquitectura basada en eventos, Docker, Kubernetes, y observabilidad con Prometheus/Grafana.
-- Contacto: [LinkedIn](https://www.linkedin.com/in/walterbaya/) | [Portfolio](https://walterbaya.netlify.app/)
+Especializado en desarrollo de sistemas backend escalables con Spring Boot. Experiencia en diseño de APIs REST, arquitecturas de microservicios y optimización de bases de datos relacionales.
 
----
-
-## Mi Stack Tecnológico
-
-### Backend & APIs
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/-Spring_Security-6DB33F?style=flat)
-![REST API](https://img.shields.io/badge/-REST_API-000000?style=flat)
-![Microservices](https://img.shields.io/badge/-Microservices-6DB33F?style=flat)
-
-### Bases de Datos
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![H2](https://img.shields.io/badge/-H2-5C5C5C?style=flat)
-![JPA / Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat)
-
-### DevOps & Testing
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+**Buenos Aires, Argentina**  
+[LinkedIn](https://www.linkedin.com/in/walterbaya/) | [Portfolio](https://walterbaya.netlify.app/)
 
 ---
 
-## Proyectos Destacados
+## Experiencia Técnica
 
-### 1️⃣ Shoe Store Backend
-Backend REST completo para una tienda de zapatos, con gestión de productos, stock, órdenes de compra, proveedores y roles de usuario.
-- **Tecnologías:** Java, Spring Boot, JPA/Hibernate, H2/MySQL, Spring Security, REST API.
-- **Logros:** Roles y permisos, manejo seguro de contraseñas con bcrypt, APIs documentadas con OpenAPI.
-- [Ver Repositorio](https://github.com/walterbaya/shoes-store)
+**Stack principal:** Java 17+, Spring Boot, Spring Cloud, JPA/Hibernate, MySQL/PostgreSQL
 
-### 2️⃣ Microservicio de Predicción de Resultados de Fútbol
-Microservicio para predecir resultados usando estadísticas históricas y métricas de desempeño.
-- **Tecnologías:** Java, Spring Boot, PostgreSQL, REST API, JUnit.
-- **Impacto:** API escalable para predicciones deportivas, integrable con frontend o bots.
-- [Ver Repositorio](https://github.com/walterbaya/worldcup-prediction)
+**Actualmente trabajando en:** Arquitecturas de microservicios, containerización con Docker, y sistemas de observabilidad para producción.
 
-### 3️⃣ Sistema de Gestión de Ventas y Usuarios
-Backend de control de ventas, clientes y reportes, con validaciones complejas y cálculos de totales, descuentos e impuestos.
-- **Tecnologías:** Java, Spring Boot, JPA, MySQL.
-- **Logros:** Modelado de relaciones complejas y triggers para auditoría de ventas.
-- [Ver Repositorio](https://github.com/walterbaya/sales-management)
-
-### 4️⃣ API de E-commerce con Carrito y Checkout
-API REST para un e-commerce completo con autenticación, carrito, checkout, pagos simulados y notificaciones.
-- **Tecnologías:** Java, Spring Boot, Spring Security, JPA/Hibernate, MySQL, Docker.
-- **Impacto:** Demuestra integración de pagos y seguridad de usuarios.
-- [Ver Repositorio](https://github.com/walterbaya/ecommerce-api)
-
-### 5️⃣ Microservicios con Spring Cloud
-Proyecto de microservicios para gestión de productos, usuarios y pedidos, con comunicación entre servicios mediante REST y eventos.
-- **Tecnologías:** Java, Spring Boot, Spring Cloud, Docker Compose, Eureka, RabbitMQ/Kafka.
-- **Logros:** Arquitectura escalable, desacoplamiento de servicios y despliegue en contenedores.
-- [Ver Repositorio](https://github.com/walterbaya/microservices-demo)
-
-### 6️⃣ Sistema de Monitoreo de Logs y Métricas
-Backend para centralizar logs de aplicaciones y exponer métricas de uso mediante endpoints REST.
-- **Tecnologías:** Java, Spring Boot, Micrometer, Prometheus, Grafana.
-- **Impacto:** Preparado para producción y observabilidad de aplicaciones backend.
-- [Ver Repositorio](https://github.com/walterbaya/log-monitoring)
+**Explorando:** Event-Driven Architecture, Kubernetes, patrones de resiliencia (Circuit Breaker, Retry), testing de integración.
 
 ---
 
-## Mis Estadísticas de GitHub
+## Stack Tecnológico
+
+**Backend & Frameworks**
+- Java 17+, Spring Boot, Spring Cloud, Spring Security, Spring Data JPA
+
+**Bases de Datos**
+- MySQL, PostgreSQL, H2
+- Hibernate, JPA, Query Optimization
+
+**Arquitectura**
+- REST APIs, Microservices, Service Discovery (Eureka), API Gateway
+- Event-Driven Architecture (RabbitMQ/Kafka), Circuit Breaker (Resilience4j)
+
+**Testing & DevOps**
+- JUnit 5, Mockito, Integration Testing
+- Docker, Docker Compose, GitHub Actions
+- Postman, Swagger/OpenAPI
+
+**Herramientas**
+- Maven, Git, IntelliJ IDEA
+
+---
+
+## Proyectos
+
+### [Shoe Store Backend](https://github.com/walterbaya/shoes-store)
+Sistema de gestión para e-commerce de calzado con inventario, órdenes de compra y administración de usuarios.
+
+Implementación de autenticación con Spring Security y JWT, sistema de roles granular, documentación con OpenAPI/Swagger. Base de datos relacional con JPA/Hibernate.
+
+**Tecnologías:** Java, Spring Boot, MySQL, Spring Security, REST API
+
+### [Football Match Prediction Service](https://github.com/walterbaya/worldcup-prediction)
+Microservicio de predicción de resultados deportivos basado en análisis estadístico de datos históricos.
+
+API REST con algoritmos de predicción, testing con JUnit y Mockito, arquitectura preparada para escalabilidad.
+
+**Tecnologías:** Java, Spring Boot, PostgreSQL, JUnit, REST API
+
+---
+
+### [Sales Management System](https://github.com/walterbaya/sales-management)
+Sistema de gestión de ventas con cálculo automático de totales, descuentos e impuestos.
+
+Modelado de relaciones complejas con JPA, triggers de base de datos para auditoría, generación de reportes.
+
+**Tecnologías:** Java, Spring Boot, JPA, MySQL, Spring Data
+
+---
+
+### [E-commerce API](https://github.com/walterbaya/ecommerce-api)
+API completa de comercio electrónico con carrito de compras y proceso de checkout.
+
+Sistema de gestión de carrito, procesamiento de pedidos, integración con pasarelas de pago simuladas, notificaciones por email. Dockerizado para deployment.
+
+**Tecnologías:** Java, Spring Boot, Spring Security, MySQL, Docker, JWT
+
+---
+
+### [Microservices Architecture Demo](https://github.com/walterbaya/microservices-demo)
+Implementación de arquitectura de microservicios con Spring Cloud para gestión de productos, usuarios y pedidos.
+
+Service Discovery con Eureka, API Gateway, Circuit Breaker para resiliencia, comunicación asíncrona con RabbitMQ/Kafka, orquestación con Docker Compose.
+
+**Tecnologías:** Spring Cloud, Eureka, API Gateway, RabbitMQ, Docker Compose
+
+---
+
+### [Application Monitoring System](https://github.com/walterbaya/log-monitoring)
+Sistema de centralización de logs y exposición de métricas para entornos de producción.
+
+Integración con Micrometer, Prometheus y Grafana. Health checks personalizados, trazabilidad de requests.
+
+**Tecnologías:** Spring Boot, Micrometer, Prometheus, Grafana, Actuator
+
+---
+
+## Estadísticas de GitHub
+
 <p align="center">
-  <img height="300px" src="https://github-readme-stats-fast.vercel.app/api?username=walterbaya&show_icons=true&theme=visual_studio_code" />
-  <img height="300px" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=walterbaya&layout=compact&theme=visual_studio_code&hide=html,css" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=walterbaya&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=walterbaya&layout=compact&langs_count=8&theme=github_dark&hide=html,css,javascript&hide_border=true"/>
 </p>
 
 ---
 
-## Certificaciones y Cursos Relevantes
+## Formación
+
 - Java Programming and Software Engineering Fundamentals - Coursera
-- Spring Boot Fundamentals - Udemy
+- Spring Boot & Spring Framework - Udemy
 - Microservicios con Spring Cloud - Udemy
 - Testing con JUnit y Mockito - LinkedIn Learning
 - Docker para Desarrolladores Java - Udemy
+
+---
+
+## Contacto
+
+[LinkedIn](https://www.linkedin.com/in/walterbaya/) | [Portfolio](https://walterbaya.netlify.app/)
 
