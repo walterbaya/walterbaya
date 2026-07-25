@@ -1,98 +1,70 @@
 # Walter Ariel Baya
 
-## Java Backend Developer
+## Data Analyst | Database & SQL Specialist
 
-Especializado en desarrollo de sistemas backend escalables con Spring Boot. Experiencia en diseño de APIs REST, arquitecturas de microservicios y optimización de bases de datos relacionales.
+Especializado en análisis de datos, optimización de bases de datos relacionales y generación de insights a partir de datos estructurados. Experiencia docente en bases de datos y background técnico en desarrollo backend, aplicado ahora al análisis y modelado de datos.
 
 **Buenos Aires, Argentina**  
 [LinkedIn](https://www.linkedin.com/in/walterbaya/) | [Portfolio](https://walterbaya.netlify.app/)
 
 ---
 
-## Experiencia Técnica
+## Sobre mí
 
-**Stack principal:** Java 17+, Spring Boot, Spring Cloud, JPA/Hibernate, MySQL/PostgreSQL
+Analista de Sistemas con formación en curso en Licenciatura en Análisis y Gestión de Datos (UNSL) y Ciencias de la Computación (UBA). Docente de Base de Datos II en Escuela Da Vinci, con foco en optimización de queries, modelado de datos e índices. Combino experiencia backend (Java/Spring Boot) con un perfil analítico orientado a la extracción de valor a partir de datos.
 
-**Actualmente trabajando en:** Arquitecturas de microservicios, containerización con Docker, y sistemas de observabilidad para producción.
+**Actualmente trabajando en:** Consultas SQL avanzadas, modelado de datos, optimización de queries y diseño de bases de datos para análisis.
 
-**Explorando:** Event-Driven Architecture, Kubernetes, patrones de resiliencia (Circuit Breaker, Retry), testing de integración.
+**Explorando:** Python para análisis de datos (Pandas, NumPy), visualización de datos, estadística aplicada, herramientas de BI.
 
 ---
 
 ## Stack Tecnológico
 
-**Backend & Frameworks**
-- Java 17+, Spring Boot, Spring Cloud, Spring Security, Spring Data JPA
+**Lenguajes & Análisis**
+- SQL (avanzado), Python, Java
 
 **Bases de Datos**
 - MySQL, PostgreSQL, H2
-- Hibernate, JPA, Query Optimization
+- Query Optimization, Indexación, Modelado de datos, Vistas y Triggers
 
-**Arquitectura**
-- REST APIs, Microservices, Service Discovery (Eureka), API Gateway
-- Event-Driven Architecture (RabbitMQ/Kafka), Circuit Breaker (Resilience4j)
-
-**Testing & DevOps**
-- JUnit 5, Mockito, Integration Testing
-- Docker, Docker Compose, GitHub Actions
-- Postman, Swagger/OpenAPI
+**Análisis & Visualización**
+- Pandas, NumPy, Jupyter Notebooks
+- Matplotlib, Seaborn
+- Power BI / Excel avanzado
 
 **Herramientas**
-- Maven, Git, IntelliJ IDEA
+- Git, LaTeX/Overleaf, Docker
 
 ---
 
 ## Proyectos
 
-### [Shoe Store Backend](https://github.com/walterbaya/shoes-store)
-Sistema de gestión para e-commerce de calzado con inventario, órdenes de compra y administración de usuarios.
+### [Nombre del proyecto de análisis 1]
+Breve descripción del dataset utilizado, el objetivo del análisis y los hallazgos principales.
 
-Implementación de autenticación con Spring Security y JWT, sistema de roles granular, documentación con OpenAPI/Swagger. Base de datos relacional con JPA/Hibernate.
-
-**Tecnologías:** Java, Spring Boot, MySQL, Spring Security, REST API
-
-### [Football Match Prediction Service](https://github.com/walterbaya/worldcup-prediction)
-Microservicio de predicción de resultados deportivos basado en análisis estadístico de datos históricos.
-
-API REST con algoritmos de predicción, testing con JUnit y Mockito, arquitectura preparada para escalabilidad.
-
-**Tecnologías:** Java, Spring Boot, PostgreSQL, JUnit, REST API
+**Tecnologías:** Python, Pandas, Matplotlib
 
 ---
 
-### [Sales Management System](https://github.com/walterbaya/sales-management)
-Sistema de gestión de ventas con cálculo automático de totales, descuentos e impuestos.
+### Análisis Financiero: YPF (Cálculo I - UNSL)
+Análisis de datos bursátiles de YPF aplicando cálculo diferencial e integral para modelar tendencias y comportamiento del precio de la acción.
 
-Modelado de relaciones complejas con JPA, triggers de base de datos para auditoría, generación de reportes.
-
-**Tecnologías:** Java, Spring Boot, JPA, MySQL, Spring Data
+**Tecnologías:** Python, análisis matemático, visualización de datos
 
 ---
 
-### [E-commerce API](https://github.com/walterbaya/ecommerce-api)
-API completa de comercio electrónico con carrito de compras y proceso de checkout.
+### [Nombre del proyecto de análisis 2]
+Espacio para un proyecto de modelado de base de datos o dashboard de BI.
 
-Sistema de gestión de carrito, procesamiento de pedidos, integración con pasarelas de pago simuladas, notificaciones por email. Dockerizado para deployment.
-
-**Tecnologías:** Java, Spring Boot, Spring Security, MySQL, Docker, JWT
+**Tecnologías:** SQL, Power BI
 
 ---
 
-### [Microservices Architecture Demo](https://github.com/walterbaya/microservices-demo)
-Implementación de arquitectura de microservicios con Spring Cloud para gestión de productos, usuarios y pedidos.
+### Material Educativo: Base de Datos II
+Diseño de material didáctico sobre optimización de queries, índices y buenas prácticas de SQL para estudiantes de Analista de Sistemas, incluyendo visualizaciones interactivas de estructuras de datos (B-Tree).
 
-Service Discovery con Eureka, API Gateway, Circuit Breaker para resiliencia, comunicación asíncrona con RabbitMQ/Kafka, orquestación con Docker Compose.
-
-**Tecnologías:** Spring Cloud, Eureka, API Gateway, RabbitMQ, Docker Compose
-
----
-
-### [Application Monitoring System](https://github.com/walterbaya/log-monitoring)
-Sistema de centralización de logs y exposición de métricas para entornos de producción.
-
-Integración con Micrometer, Prometheus y Grafana. Health checks personalizados, trazabilidad de requests.
-
-**Tecnologías:** Spring Boot, Micrometer, Prometheus, Grafana, Actuator
+**Tecnologías:** SQL, SQLFluff, HTML/JS
 
 ---
 
@@ -107,15 +79,13 @@ Integración con Micrometer, Prometheus y Grafana. Health checks personalizados,
 
 ## Formación
 
-- Java Programming and Software Engineering Fundamentals - Coursera
-- Spring Boot & Spring Framework - Udemy
-- Microservicios con Spring Cloud - Udemy
-- Testing con JUnit y Mockito - LinkedIn Learning
-- Docker para Desarrolladores Java - Udemy
+- Licenciatura en Análisis y Gestión de Datos (en curso) - UNSL
+- Ciencias de la Computación (en curso) - UBA
+- Analista de Sistemas - Título completo
+- Docente de Base de Datos II - Escuela Da Vinci
 
 ---
 
 ## Contacto
 
 [LinkedIn](https://www.linkedin.com/in/walterbaya/) | [Portfolio](https://walterbaya.netlify.app/)
-
