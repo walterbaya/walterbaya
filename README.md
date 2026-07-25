@@ -11,7 +11,7 @@ Especializado en análisis de datos, optimización de bases de datos relacionale
 
 ## Sobre mí
 
-Analista de Sistemas con formación en curso en Licenciatura en Análisis y Gestión de Datos (UNSL) y Ciencias de la Computación (UBA). Docente de Base de Datos II en Escuela Da Vinci, con foco en optimización de queries, modelado de datos e índices. Combino experiencia backend (Java/Spring Boot) con un perfil analítico orientado a la extracción de valor a partir de datos.
+Analista de Sistemas con formación en curso en Licenciatura en Análisis y Gestión de Datos (UNSL). Docente de Base de Datos II en Escuela Da Vinci, con foco en optimización de queries, modelado de datos e índices. Combino experiencia backend (Java/Spring Boot) con un perfil analítico orientado a la extracción de valor a partir de datos.
 
 **Actualmente trabajando en:** Consultas SQL avanzadas, modelado de datos, optimización de queries y diseño de bases de datos para análisis.
 
@@ -80,7 +80,6 @@ Diseño de material didáctico sobre optimización de queries, índices y buenas
 ## Formación
 
 - Licenciatura en Análisis y Gestión de Datos (en curso) - UNSL
-- Ciencias de la Computación (en curso) - UBA
 - Analista de Sistemas - Título completo
 - Docente de Base de Datos II - Escuela Da Vinci
 
